@@ -22,7 +22,7 @@ To install the Motif Marking Tool, follow these steps:
     pip install pycairo==1.26.0
     ```
 ## Usage
-### The following command will run the script using the input FASTA and motif files to render a .png image that graphically illustrates each gene along with its introns regions, exon regions, and motifs. 
+The following command will run the script using the input FASTA and motif files to render a .png image that graphically illustrates each gene along with its introns regions, exon regions, and motifs. 
 
         ```bash
         ./motif-mark.py -f input.fasta -m input_motif.txt
