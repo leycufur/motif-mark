@@ -25,3 +25,4 @@ The following command will run the script using the input FASTA and motif files 
 ```bash
 ./motif-mark.py -f input.fasta -m input_motif.txt
 ```
+The rendered .png will be saved in the current working directory by default.
