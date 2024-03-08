@@ -11,8 +11,6 @@ To install the Motif Marking Tool, follow these steps:
 1. Clone the repository to your local machine and navigate to the directory.
     ```bash
    git clone https://github.com/leycufur/motif-mark.git
-   ```
-   ```bash
    cd motif-mark
    ```
 2. Install requirements
