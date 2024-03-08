@@ -9,11 +9,9 @@ The Motif Marking Tool is a Python-based utility for visualizing gene structures
 To install the Motif Marking Tool, follow these steps:
 
 1. Clone the repository to your local machine.
-   ```bash
    git clone https://github.com/leycufur/motif-mark.git
    cd motif-mark
 2. Install requirements
-    ```bash
     pip install pycairo==1.26.0
 ##
 
